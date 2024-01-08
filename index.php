@@ -8,7 +8,7 @@
 <body>
     <h1>HELLO INDRA</h1>
     <?php 
-        echo "IT WORKS!!! 11111111111111111111111";
+        echo "IT WORKS!!! OK CUKUP";
     ?>
 </body>
 </html>
