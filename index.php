@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO INDRA</h1>
+    <h1>HELLO INDRA edited</h1>
     <?php 
         echo "IT WORKS!!! OK CUKUP";
     ?>
